@@ -11,7 +11,7 @@ CREATE TABLE Clientes (
 go
 use empresa;
 INSERT INTO Clientes (Nome, Sobrenome, Email, Telefone) VALUES
-('Jo„o', 'Silva', 'joao@email.com', '1234567890'),
+('Jo√£o', 'Silva', 'joao@email.com', '1234567890'),
 ('Maria', 'Santos', 'maria@email.com', '9876543210'),
 ('Pedro', 'Souza', 'pedro@email.com', '5555555555'),
 ('Ana', 'Oliveira', 'ana@email.com', '1111111111'),
